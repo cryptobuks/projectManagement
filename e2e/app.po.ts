@@ -10,8 +10,7 @@ export class AppPage {
   }
 
   getListSize() {
-    let list = element.all(by.css('app-root li'));
-    return list.count();
+    return element.all(by.css('app-root li')).count();
   }
-  
+
 }

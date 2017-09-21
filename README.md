@@ -5,6 +5,7 @@ Aplikacja www do zarządzania procesami projektu tworzenia oprogramowania
 
 ## Zakres funkcjonalności projektu
 * [ ] Ewidencjonowanie projektów
+* [ ] Ewidencjonowanie projektów
 * [ ] Ewidencja wymagań projektu
 * [ ] Ewidencjonowanie zadań projektowych w kontekście wymagania
 * [ ] Szacowanie czasochłonności zadania w kontekście wymagania

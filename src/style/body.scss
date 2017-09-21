@@ -1,0 +1,36 @@
+$font-color: #000000;
+$body-background-color: #eee;
+$font-family: Arial, sans-serif;
+$font-size: 28px;
+
+$root-color: #0747A6;
+$root-color-text-on-dark-background: #DEEBFF;
+
+
+body {
+    background-color: $body-background-color;
+    color: $font-color;
+    font-family: $font-family;
+    font-size: $font-size;
+}
+
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
